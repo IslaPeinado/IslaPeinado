@@ -3,6 +3,7 @@
 </div>
 
 <div id="badges" align="center">
+  <h1 align="center"> Welcome to my github </h1>
   <a href="https://www.linkedin.com/in/isla-peinado-henríquez-a97387226/"/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,8 +11,6 @@
 <div id="views" align="center">
     <img src="https://komarev.com/ghpvc/?username=IslaPeinado&style=flat-square&color=blue" alt="" />
 </div>
-
-<h1 align="center"> welcome to my github </h1>
 
 ### :woman_technologist: About me
 
