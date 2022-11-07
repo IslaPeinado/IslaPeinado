@@ -1,9 +1,9 @@
+<h1 align="center"> Welcome to my github </h1>
 <div id="header" align="center">
   <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
-  <h1 align="center"> Welcome to my github </h1>
   <a href="https://www.linkedin.com/in/isla-peinado-henríquez-a97387226/"/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
