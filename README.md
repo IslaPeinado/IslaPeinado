@@ -14,7 +14,7 @@
 
 ### :woman_technologist: About me
 
-Estudiande de desarro de aplicaciones multiplataforma
+I'm a multi-platform application development student. Passionate about programming and design. Interested in expanding my knowledge in the programming and development sector, in order to dedicate myself to programming on the front-end side.
 
 ### :hammer_and_wrench: Languages y Tools :
 <div>
