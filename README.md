@@ -11,9 +11,9 @@
     <img src="https://komarev.com/ghpvc/?username=IslaPeinado&style=flat-square&color=blue" alt="" />
 </div>
 
-<h1 align="center"> Bienvenido a mi github </h1>
+<h1 align="center"> welcome to my github </h1>
 
-### :woman_technologist: Sobre mi
+### :woman_technologist: About me
 
 Estudiande de desarro de aplicaciones multiplataforma
 
@@ -23,7 +23,6 @@ Estudiande de desarro de aplicaciones multiplataforma
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
