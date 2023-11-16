@@ -1,32 +1,33 @@
-<h1 align="center"> Welcome to my github </h1>
-<div id="header" align="center">
-  <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="300"/>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/isla-peinado-henríquez-a97387226/"/>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="views" align="center">
-    <img src="https://komarev.com/ghpvc/?username=IslaPeinado&style=flat-square&color=blue" alt="" />
-</div>
-
-### :woman_technologist: About me
-
-I'm a multi-platform application development student. Passionate about programming and design. Interested in expanding my knowledge in the programming and development sector, in order to dedicate myself to programming on the front-end side.
-
-### :hammer_and_wrench: Languages y Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <h1>¡Hola! 👋 Soy Isla Peinado</h1>
+  <p>Soy una desarrolladora junior full-stack. Me apasiona la programación, tengo muchas ganas de aprender, trabajar y evolucionar en este cambiante campo.</p>
+   
+  <div id="header" align="center">
+    <img src="https://www.puttiapps.com/wp-content/uploads/2021/05/programming.gif" width="300"/>
+  </div>
+  
+  <h3>Conocimientos:</h3>
+  
+   <p> 💻 Lenguajes: TypeScript, SCSS, Java (SpringBoot, Hibernate, JPA, Maven, Jakarta EE), Python (Django, Pandas) </p> 
+   <p> 🛠️ Frameworks: AngularJS, React, Next.js, NodeJS, Tailwind CSS  </p> 
+   <p> 🗃️ Bases de datos: Firebase, MySQL, PostgreSQL, MongoDB  </p> 
+   <p> 🔧 Herramientas: Git, Jira, Express, Bootstrap, HTML5, CSS3  </p> <br>
+   
+ 
+  <p>En este momento, estoy enfocada en el desarrollo full-stack. He participado en proyectos de aplicaciones web con sus respectivas bases de datos. Tengo experiencia trabajando en entornos colaborativos con metodologías Agile y Scrum. Me apasiona el aprendizaje de nuevas tecnologías para mejorar constantemente mis habilidades.</p>
+   
+  <p>Estoy emocionada por seguir creciendo como desarrolladora y contribuir con mi pasión y conocimientos a proyectos desafiantes y gratificantes.</p>
+  
+ 
 </div>
 
-<!--### :fire: Lenguajes más utilizados :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IslaPeinado&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) <br><br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IslaPeinado&theme=dark&background=000000)](https://git.io/streak-stats)<br>-->
+</body>
+</html>
