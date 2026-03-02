@@ -1,75 +1,117 @@
 # 👋 Hi, I'm Isla Peinado
 
-🚀 **Full-Stack Developer | Angular & Java (Spring Boot) | AI-assisted development**  
-📍 Madrid, Spain | 🌍 Open to remote & hybrid opportunities  
-💼 **Open to work**
+### 🚀 Full-Stack Developer | Angular & Spring Boot | Clean Architecture | AI-Driven Engineering  
+
+📍 Madrid, Spain  
+🌍 Open to remote & hybrid opportunities  
+💼 Open to work  
 
 ---
 
-## 👩‍💻 About me
+## 🧠 Engineering Mindset
 
-I'm a **Full-Stack Developer** specialized in **Angular** and **Java (Spring Boot)**, with experience building web applications in enterprise environments.
+I build **scalable, maintainable web applications** with a strong architectural focus.
 
-I work across the full software development lifecycle — from analysis and design to implementation — developing both **front-end** and **back-end** solutions. One of my key strengths is applying **Artificial Intelligence tools** to improve productivity, code quality, and development workflows.
+I care about:
 
-I’m currently **open to new opportunities** where I can continue growing as a developer and contribute from day one in innovative, collaborative teams.
+- 🏗 Clean Architecture  
+- 🔐 Secure REST APIs (JWT, stateless authentication)  
+- 🧩 Modular Angular frontends  
+- 🧪 Testing-first mindset  
+- 🔄 CI/CD automation  
+- 📐 Long-term maintainability over quick fixes  
 
----
-
-## 🧠 Tech Stack
-
-### 🔹 Back-end
-- Java (11 - 17)
-- Spring Boot
-- Hibernate / JPA
-- REST APIs
-- Oracle DB
-
-### 🔹 Front-end
-- Angular (14 - 17)
-- TypeScript
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- Responsive UI
-
-### 🔹 Other tools & practices
-- Git & GitHub
-- Clean Code & best practices
-- Agile environments
-- AI-assisted development (Cursor, ChatGPT, GitHub Copilot)
-- Prompt Engineering
+I don’t just implement features — I design systems that evolve.
 
 ---
 
-## 🤖 AI in my daily workflow
+## 🛠 Tech Stack
 
-I actively use AI tools to:
-- Generate and refactor code efficiently
-- Improve code quality and maintainability
-- Automate repetitive development tasks
-- Speed up debugging and problem-solving
+### ⚙️ Backend
 
-AI is not a replacement — it’s a **productivity multiplier**.
+![Java](https://img.shields.io/badge/Java-17%2F21-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Framework-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-JWT-6DB33F?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-JPA-59666C?style=for-the-badge&logo=hibernate)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 📂 Featured Projects
-_(Coming soon / In progress)_
-
-- Full-Stack Web Application (Angular + Spring Boot)
-- REST API with Java & Spring Boot
-- Personal projects focused on clean architecture and scalability
-
-👉 More projects will be added soon.
+- Layered architecture (`api`, `application`, `domain`, `infra`)
+- REST API design
+- Flyway migrations
+- JUnit, Mockito, Testcontainers
 
 ---
 
-## 📫 Contact
+### 🎨 Frontend
 
-- 📧 Email: **i.peinadohenriquez@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/isla-peinado-henríquez](https://www.linkedin.com/in/isla-peinado-henr%C3%ADquez)
-- 🧑‍💻 GitHub: [github.com/IslaPeinado](https://github.com/IslaPeinado)
+![Angular](https://img.shields.io/badge/Angular-14--20-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-Styling-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+- Feature-based modularization
+- HTTP interceptors & route guards
+- REST API integration
+- Jasmine & Karma testing
+- Responsive UI architecture
 
 ---
 
-⭐️ Feel free to connect with me or explore my repositories!
+### 🔄 Dev Practices
+
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+- Clean code principles
+- Separation of concerns
+- Structured branching strategy
+- CI/CD pipelines
+- API contract awareness
+
+---
+
+## 🤖 AI as an Engineering Multiplier
+
+I integrate AI into my daily workflow to support:
+
+- 🧠 Architectural reasoning  
+- ♻️ Refactoring & structure improvement  
+- 📝 Technical documentation  
+- 🐞 Debugging complex issues  
+- ⚡ Workflow optimization  
+
+AI is not a shortcut — it’s a **productivity accelerator for well-structured engineering**.
+
+---
+
+## 📂 Featured Project
+
+### 🧩 COCO – Full-Stack Project Management System
+
+Production-oriented application built with:
+
+- Angular 20 (SPA)
+- Java 21 + Spring Boot
+- Spring Security (JWT stateless auth)
+- PostgreSQL + Flyway
+- Layered backend architecture
+- JUnit, Mockito & Jasmine testing
+- CI/CD with GitHub Actions
+
+Designed to simulate real enterprise environments focusing on:
+
+✔ Security  
+✔ API stability  
+✔ Architectural evolution  
+✔ Long-term maintainability  
+
+---
+
+## 📫 Let's Connect
+
+📧 **i.peinadohenriquez@gmail.com**  
+💼 LinkedIn: https://linkedin.com/in/isla-peinado-henríquez  
+🧑‍💻 GitHub: https://github.com/IslaPeinado  
+
+---
+
+⭐ I’m always open to collaborating on projects where architecture, quality, and thoughtful engineering truly matter.
